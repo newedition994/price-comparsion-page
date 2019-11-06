@@ -20,3 +20,11 @@ body {
   align-items: center;
   font-family: var(--body-font-family);
 }
+
+.price-comparison {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  width: 100%;
+  margin: 1rem;
+}
