@@ -132,3 +132,18 @@ body {
   font-weight: bold;
   font-family: var(--heading-font-family);
 }
+
+.cta {
+  border: none;
+  background-color: var(--accent-color);
+  color: white;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  font-family: var(--heading-font-family);
+  font-weight: bold;
+  border-radius: 4px;
+  margin-top: 3rem;
+  transition: 100ms;
+  transform: scale(1);
+}
