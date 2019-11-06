@@ -28,3 +28,13 @@ body {
   width: 100%;
   margin: 1rem;
 }
+
+.price-column {
+  position: relative;
+  box-shadow: 0 7px 30px rgba(52, 31, 97, 0.1);
+  padding: 2rem;
+  flex-grow: 1;
+  flex-basis: 0;
+  max-width: 275px;
+  border-radius: 8px;
+}
