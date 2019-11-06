@@ -147,3 +147,13 @@ body {
   transition: 100ms;
   transform: scale(1);
 }
+
+.price-column.popular .cta {
+  background-color: white;
+  color: var(--accent-color);
+}
+
+.cta:hover,
+.cta:focus {
+  transform: scale(1.1);
+}
