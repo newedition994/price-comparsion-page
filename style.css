@@ -67,3 +67,14 @@ body {
   font-family: var(--heading-font-family);
   font-weight: bold;
 }
+
+.price {
+  font-size: 3.5rem;
+  display: flex;
+}
+
+.dollar-sign {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  margin-right: 0.25rem;
+}
